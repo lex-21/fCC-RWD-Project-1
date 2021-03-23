@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+}
+
+body {
+    background-color: #eee;
+}
+
+/* -- Typography -- */
+
+h1 {
+    font-size: 2rem;
+    line-height: 3rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+p.more-info {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+h1,
+h2,
+p,
+figcaption {
+    text-align: center;
+}
+
+blockquote p {
+    font-style: italic;
+}
+
+/* -- Header -- */
+
+header {
+    max-width: 1200px;
+    width: 90%;
+    margin: 5vh auto 0;
+}
+
+
+figure {
+    margin-top: 5vh;
+    background-color: #fff;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+figcaption {
+    padding: 2vh 0;
+}
+
+/* -- Section 1-- */
+
+section {
+    max-width: 1200px;
+    width: 90%;
+    margin: 5vh auto 0;
+}
+
+ul {
+    margin-left: 5%;
+    margin-top: 5vh;
+    list-style-type: square;
+}
+
+ul li {
+    padding: 1vh 0;
+}
+
+blockquote {
+    margin: 5vh 0;
+
+}
+
+.more-info {
+    margin-bottom: 5vh;
+}
